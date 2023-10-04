@@ -167,7 +167,7 @@ window.addEventListener("load", () => {
   if (!localStorage.getItem("usersRef")) {
     localStorage.setItem("usersRef", JSON.stringify(users));
   }
-  if (location.pathname === "/selvin_shopping/index.html") {
+  if (location.pathname === "/index.html") {
     userHomePage();
   }
   if (location.pathname === "/admin/index.html") {
