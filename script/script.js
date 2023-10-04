@@ -5,7 +5,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "/images/images.jpg",
+    thumbnail: "/online_shopping/images/images.jpg",
   },
   {
     id: 2,
