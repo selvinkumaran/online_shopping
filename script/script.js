@@ -5,7 +5,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "../images/images.jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChlX8soMik6eDQ0QL4GjAOcJ-JTrW7jAJj2Rvq12A9rtm4nz3dguoCTMU-kTlwNevteU&usqp=CAU",
   },
   {
     id: 2,
@@ -13,7 +14,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,999.00 ₹2,499.00 per pair (Inclusive of all taxes)",
     price: 2499,
-    thumbnail: "../images/images (2).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunCVM1eZUbp2YoxYK-8hRMxxRYFbcyukeSuMJs4vCyHOUuIcpiMfgx5HDCrjZj6A__hQ&usqp=CAU",
   },
   {
     id: 3,
@@ -21,7 +23,8 @@ let products = [
     description:
       "MRP in Indian currency:₹1,699.00₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
-    thumbnail: "../images/images (1).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRONa-MOx7clS546eloytXT5ABBcrrs0LwlvzrneQQyeM6lB9VAhb8a2_mV-oyJQ4Cyteo&usqp=CAU",
   },
   {
     id: 4,
@@ -29,7 +32,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,999.00 ₹1,499.00 per pair (Inclusive of all taxes)",
     price: 1499,
-    thumbnail: "../images/download (2).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_UswwnHsnghkT25IlV1KfSS_ll2HWko74Kw&usqp=CAU",
   },
   {
     id: 5,
@@ -37,7 +41,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,599.00 ₹2,099.00 per pair (Inclusive of all taxes)",
     price: 2099,
-    thumbnail: "../images/download.jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCMN1W-RNYdVU_jB8GF79NRKaRYTloE-o8w&usqp=CAU",
   },
   {
     id: 6,
@@ -45,7 +50,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "../images/download (1).jpg",
+    thumbnail:
+      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.adidas.com%2Fimages%2Fh_840%2Cf_auto%2Cq_auto%2Cfl_lossy%2Cc_fill%2Cg_auto%2Ffe530b626c754c9491bdae4e00760785_9366%2FADISCEND_SHOES_Black_GA1103_01_standard.jpg&tbnid=lPECrBSIKO6rOM&vet=12ahUKEwiOnuXO8tyBAxWQ3DgGHXf3A4wQ94IIKAl6BQgBEIUB..i&imgrefurl=https%3A%2F%2Fwww.adidas.co.in%2Fadiscend-shoes%2FGA1103.html&docid=LD3L127TDh-GJM&w=840&h=840&q=adidas%20shoes%20black&hl=en&ved=2ahUKEwiOnuXO8tyBAxWQ3DgGHXf3A4wQ94IIKAl6BQgBEIUB",
   },
   {
     id: 7,
@@ -53,7 +59,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,699.00 ₹1,299.00 per pair (Inclusive of all taxes)",
     price: 1299,
-    thumbnail: "../images/images (4).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrnlviQYiPqBdMJKk28d-VPmzwZ0zpfqrA4fxNq0a_PKLxXOa1eXjOTQTZJgn2S-Iq3eg&usqp=CAU",
   },
   {
     id: 8,
@@ -61,7 +68,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,299.00 ₹899.00 per pair (Inclusive of all taxes)",
     price: 899,
-    thumbnail: "../images/zoom_0-1673529652.webp",
+    thumbnail:
+      "https://img0.junaroad.com/uiproducts/19126302/zoom_0-1673529652.jpg",
   },
   {
     id: 9,
@@ -69,7 +77,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,299.00 ₹1,899.00 per pair (Inclusive of all taxes)",
     price: 1899,
-    thumbnail: "../images/images (3).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ji4pdMQgXo2oye1Fky_eXtSKBoaDe_stkJGrgB97Nx3l7gKM8O1MplIevZY5zBIkEWM&usqp=CAU",
   },
   {
     id: 10,
@@ -77,7 +86,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,699.00 ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
-    thumbnail: "../images/images (5).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsaXPt46FAu4GKQbr6Vz9QJSzwi6tuKWbM-xC2TTOmoYc57G2LPv-g4JtPSrXqmoRMo88&usqp=CAU",
   },
   {
     id: 11,
@@ -85,7 +95,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹1,999.00 per pair (Inclusive of all taxes)",
     price: 1999,
-    thumbnail: "../images/download (5).jpg",
+    thumbnail:
+      "https://www.google.com/imgres?imgurl=http%3A%2F%2Fblackberrys.com%2Fcdn%2Fshop%2Ffiles%2Fcheck-casual-shirt-in-navy-temora-blackberrys-clothing-1.jpg%3Fv%3D1685952840&tbnid=mZwnNig9GjaNoM&vet=12ahUKEwi0-4u28dyBAxXioOkKHXraD7YQMygBegQIARBx..i&imgrefurl=https%3A%2F%2Fblackberrys.com%2Fproducts%2Fcheck-casual-shirt-in-navy-temora&docid=A1daJeU-GJml1M&w=3200&h=4000&q=casual%20check%20shirt&ved=2ahUKEwi0-4u28dyBAxXioOkKHXraD7YQMygBegQIARBx",
   },
   {
     id: 12,
@@ -93,7 +104,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,699.00 ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
-    thumbnail: "../images/download (4).jpg",
+    thumbnail:
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meesho.com%2Fplain-casual-shirt-for-men-premium-cotton-solid-shirt-full-sleeves-slim-fit-stylish-plain-shirt-navy-blue%2Fp%2F2wmn9o&psig=AOvVaw2qlnydGR1nuov2CcgdW5OV&ust=1696526231590000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDu8uvy3IEDFQAAAAAdAAAAABAJ",
   },
   {
     id: 13,
@@ -101,7 +113,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,399.00 ₹2,299.00 per pair (Inclusive of all taxes)",
     price: 2299,
-    thumbnail: "../images/download (3).jpg",
+    thumbnail:
+      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.jiomart.com%2Fimages%2Fproduct%2Foriginal%2Frvebtlogr0%2Fmen-pure-cotton-casual-trousers-product-images-rvebtlogr0-2-202211250453.jpg%3Fim%3DResize%3D(500%2C630)&tbnid=mVJUJpENSoYX_M&vet=12ahUKEwjow9iI89yBAxXB5TgGHashAUAQMygVegUIARCiAQ..i&imgrefurl=https%3A%2F%2Fwww.jiomart.com%2Fp%2Ffashion%2Fmen-pure-cotton-casual-trousers%2F595541918%3Fsource%3Dshoppingads&docid=bLemBAqtz98OwM&w=339&h=630&itg=1&q=casual%20pants%20for%20men&ved=2ahUKEwjow9iI89yBAxXB5TgGHashAUAQMygVegUIARCiAQ",
   },
   {
     id: 14,
@@ -109,7 +122,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,299.00 ₹1,899.00 per pair (Inclusive of all taxes)",
     price: 1899,
-    thumbnail: "../images/images (7).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwRtSBemEwT-hA6bZasCuZic47XEld7Ed9kdomFjeWZWsc0qLWvIM7DFboZqL-fApIRA&usqp=CAU",
   },
   {
     id: 15,
@@ -117,7 +131,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,299.00 ₹899.00 per pair (Inclusive of all taxes)",
     price: 899,
-    thumbnail: "../images/men-casual-pant.jpg",
+    thumbnail:
+      "https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant.jpg",
   },
 
   {
@@ -126,7 +141,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "../images/images (8).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSygPM1nTNFQVcJSTz7Y_L-cv3vleeb9rnqSQ&usqp=CAU",
   },
   {
     id: 17,
@@ -134,7 +150,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹3,699.00 ₹2,999.00 per pair (Inclusive of all taxes)",
     price: 2999,
-    thumbnail: "../images/images (9).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdpyBO8kwkBlpHLjTcpX2FNzXSmDBvp_7ocQ&usqp=CAU",
   },
   {
     id: 18,
@@ -142,7 +159,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "../images/images (10).jpg",
+    thumbnail:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDtEk1AWnUl5luFwtB2MnERuyt--ipwnoDXg&usqp=CAU",
   },
 ];
 
@@ -275,7 +293,6 @@ const signOut = () => {
 
 // loading products in user home page
 const userHomePage = () => {
-  
   const productsRef = document.getElementById("productsLoop");
   const productSet = JSON.parse(localStorage.getItem("productsRef"));
   let body = "";
