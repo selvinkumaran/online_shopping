@@ -1,0 +1,38 @@
+.col1 {
+  background-color: black;
+  color: white;
+}
+.out {
+  display: flex;
+  margin: 30px;
+}
+.in {
+  display: inline-block;
+}
+.height {
+  height: 274px;
+}
+.height1 {
+  height: 205px;
+}
+.strike {
+  text-decoration: line-through;
+}
+.cart {
+  background-color: #ffa41c;
+  color: black;
+  width: 100px;
+  height: 40px;
+  border: none;
+  border-radius: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.buy {
+  background-color: green;
+  color: rgb(255, 255, 255);
+  width: 100px;
+  height: 40px;
+  border: none;
+  border-radius: 25px;
+}
