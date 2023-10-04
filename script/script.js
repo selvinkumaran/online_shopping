@@ -257,7 +257,7 @@ const signIn = () => {
         emailRef.value === "selvin@gmail.com" &&
         passwordRef.value === "1234"
       ) {
-        location.replace("/admin/index.html");
+        location.replace("../admin/index.html");
       } else {
         location.replace("/index.html");
       }
