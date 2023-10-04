@@ -5,7 +5,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "/online_shopping/images/images.jpg",
+    thumbnail: "../images/images.jpg",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,999.00 ₹2,499.00 per pair (Inclusive of all taxes)",
     price: 2499,
-    thumbnail: "/images/images (2).jpg",
+    thumbnail: "../images/images (2).jpg",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ let products = [
     description:
       "MRP in Indian currency:₹1,699.00₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
-    thumbnail: "/images/images (1).jpg",
+    thumbnail: "../images/images (1).jpg",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,999.00 ₹1,499.00 per pair (Inclusive of all taxes)",
     price: 1499,
-    thumbnail: "/images/download (2).jpg",
+    thumbnail: "../images/download (2).jpg",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,599.00 ₹2,099.00 per pair (Inclusive of all taxes)",
     price: 2099,
-    thumbnail: "/images/download.jpg",
+    thumbnail: "../images/download.jpg",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "/images/download (1).jpg",
+    thumbnail: "../images/download (1).jpg",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,699.00 ₹1,299.00 per pair (Inclusive of all taxes)",
     price: 1299,
-    thumbnail: "/images/images (4).jpg",
+    thumbnail: "../images/images (4).jpg",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,299.00 ₹899.00 per pair (Inclusive of all taxes)",
     price: 899,
-    thumbnail: "/images/zoom_0-1673529652.webp",
+    thumbnail: "../images/zoom_0-1673529652.webp",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,299.00 ₹1,899.00 per pair (Inclusive of all taxes)",
     price: 1899,
-    thumbnail: "/images/images (3).jpg",
+    thumbnail: "../images/images (3).jpg",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,699.00 ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
-    thumbnail: "/images/images (5).jpg",
+    thumbnail: "../images/images (5).jpg",
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹1,999.00 per pair (Inclusive of all taxes)",
     price: 1999,
-    thumbnail: "/images/download (5).jpg",
+    thumbnail: "../images/download (5).jpg",
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,699.00 ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
-    thumbnail: "/images/download (4).jpg",
+    thumbnail: "../images/download (4).jpg",
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,399.00 ₹2,299.00 per pair (Inclusive of all taxes)",
     price: 2299,
-    thumbnail: "/images/download (3).jpg",
+    thumbnail: "../images/download (3).jpg",
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,299.00 ₹1,899.00 per pair (Inclusive of all taxes)",
     price: 1899,
-    thumbnail: "/images/images (7).jpg",
+    thumbnail: "../images/images (7).jpg",
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,299.00 ₹899.00 per pair (Inclusive of all taxes)",
     price: 899,
-    thumbnail: "/images/men-casual-pant.jpg",
+    thumbnail: "../images/men-casual-pant.jpg",
   },
 
   {
@@ -126,7 +126,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "/images/images (8).jpg",
+    thumbnail: "../images/images (8).jpg",
   },
   {
     id: 17,
@@ -134,7 +134,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹3,699.00 ₹2,999.00 per pair (Inclusive of all taxes)",
     price: 2999,
-    thumbnail: "/images/images (9).jpg",
+    thumbnail: "../images/images (9).jpg",
   },
   {
     id: 18,
@@ -142,7 +142,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "/images/images (10).jpg",
+    thumbnail: "../images/images (10).jpg",
   },
 ];
 
