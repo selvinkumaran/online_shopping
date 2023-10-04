@@ -229,7 +229,7 @@ const signUp = () => {
         password: passwordRef.value,
       });
       localStorage.setItem("usersRef", JSON.stringify(users));
-      location.href = "/user/signin.html";
+      location.href = "/online_shopping/user/signin.html";
     } else {
       errorRef.innerText = "Password Mismached !!!";
     }
