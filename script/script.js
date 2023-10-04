@@ -270,7 +270,7 @@ const signIn = () => {
 //sign out
 const signOut = () => {
   sessionStorage.removeItem("userId");
-  location.replace("online_shopping/user/signin.html");
+  location.replace("/online_shopping/user/signin.html");
 };
 
 // loading products in user home page
