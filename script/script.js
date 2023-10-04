@@ -170,7 +170,7 @@ window.addEventListener("load", () => {
   if (location.pathname === "/index.html") {
     userHomePage();
   }
-  if (location.pathname === "/admin/index.html") {
+  if (location.pathname === "/online_shopping/admin/index.html") {
     adminHomePage();
   }
   if (location.pathname === "/user/cart.html") {
@@ -257,7 +257,7 @@ const signIn = () => {
         emailRef.value === "selvin@gmail.com" &&
         passwordRef.value === "1234"
       ) {
-        location.replace("../admin/index.html");
+        location.replace("/online_shopping/admin/index.html");
       } else {
         location.replace("/index.html");
       }
