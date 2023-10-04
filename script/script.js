@@ -50,8 +50,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail:
-      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.adidas.com%2Fimages%2Fh_840%2Cf_auto%2Cq_auto%2Cfl_lossy%2Cc_fill%2Cg_auto%2Ffe530b626c754c9491bdae4e00760785_9366%2FADISCEND_SHOES_Black_GA1103_01_standard.jpg&tbnid=lPECrBSIKO6rOM&vet=12ahUKEwiOnuXO8tyBAxWQ3DgGHXf3A4wQ94IIKAl6BQgBEIUB..i&imgrefurl=https%3A%2F%2Fwww.adidas.co.in%2Fadiscend-shoes%2FGA1103.html&docid=LD3L127TDh-GJM&w=840&h=840&q=adidas%20shoes%20black&hl=en&ved=2ahUKEwiOnuXO8tyBAxWQ3DgGHXf3A4wQ94IIKAl6BQgBEIUB",
+    thumbnail:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHTwsQazw2Ho8tIp3LqNeJVBCWhWv629kng&usqp=CAU",
   },
   {
     id: 7,
@@ -95,9 +94,8 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹1,999.00 per pair (Inclusive of all taxes)",
     price: 1999,
-    thumbnail:
-      "https://www.google.com/imgres?imgurl=http%3A%2F%2Fblackberrys.com%2Fcdn%2Fshop%2Ffiles%2Fcheck-casual-shirt-in-navy-temora-blackberrys-clothing-1.jpg%3Fv%3D1685952840&tbnid=mZwnNig9GjaNoM&vet=12ahUKEwi0-4u28dyBAxXioOkKHXraD7YQMygBegQIARBx..i&imgrefurl=https%3A%2F%2Fblackberrys.com%2Fproducts%2Fcheck-casual-shirt-in-navy-temora&docid=A1daJeU-GJml1M&w=3200&h=4000&q=casual%20check%20shirt&ved=2ahUKEwi0-4u28dyBAxXioOkKHXraD7YQMygBegQIARBx",
-  },
+    thumbnail:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBPIOEgWAk4QKW-MaWy60ltzUKnrNniuhTw&usqp=CAU",
+   },
   {
     id: 12,
     title: "Plain Shirt",
@@ -105,7 +103,7 @@ let products = [
       "MRP in Indian currency: ₹1,699.00 ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
     thumbnail:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meesho.com%2Fplain-casual-shirt-for-men-premium-cotton-solid-shirt-full-sleeves-slim-fit-stylish-plain-shirt-navy-blue%2Fp%2F2wmn9o&psig=AOvVaw2qlnydGR1nuov2CcgdW5OV&ust=1696526231590000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDu8uvy3IEDFQAAAAAdAAAAABAJ",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWp3VwfVC1RnQpYTDVI4odCN_lJuzSiMN3NEr6KrC-vbrJEhiTTw0CejYZIjIAG0Loqk4&usqp=CAU",
   },
   {
     id: 13,
@@ -114,7 +112,7 @@ let products = [
       "MRP in Indian currency: ₹1,399.00 ₹2,299.00 per pair (Inclusive of all taxes)",
     price: 2299,
     thumbnail:
-      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.jiomart.com%2Fimages%2Fproduct%2Foriginal%2Frvebtlogr0%2Fmen-pure-cotton-casual-trousers-product-images-rvebtlogr0-2-202211250453.jpg%3Fim%3DResize%3D(500%2C630)&tbnid=mVJUJpENSoYX_M&vet=12ahUKEwjow9iI89yBAxXB5TgGHashAUAQMygVegUIARCiAQ..i&imgrefurl=https%3A%2F%2Fwww.jiomart.com%2Fp%2Ffashion%2Fmen-pure-cotton-casual-trousers%2F595541918%3Fsource%3Dshoppingads&docid=bLemBAqtz98OwM&w=339&h=630&itg=1&q=casual%20pants%20for%20men&ved=2ahUKEwjow9iI89yBAxXB5TgGHashAUAQMygVegUIARCiAQ",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPZNoag7We_uNa8jrSJaIxkOtzLEsC_-rrA&usqp=CAU",
   },
   {
     id: 14,
