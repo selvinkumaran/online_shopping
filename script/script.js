@@ -167,7 +167,7 @@ window.addEventListener("load", () => {
   if (!localStorage.getItem("usersRef")) {
     localStorage.setItem("usersRef", JSON.stringify(users));
   }
-  if (location.pathname === "/online_shopping/index.html") {
+  if (location.pathname === "../online_shopping/index.html") {
     userHomePage();
   }
   if (location.pathname === "/online_shopping/admin/index.html") {
@@ -270,7 +270,7 @@ const signIn = () => {
 //sign out
 const signOut = () => {
   sessionStorage.removeItem("userId");
-  location.replace("/online_shopping/user/signin.html");
+  location.replace("online_shopping/user/signin.html");
 };
 
 // loading products in user home page
