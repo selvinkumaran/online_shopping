@@ -5,7 +5,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "../images/images.jpg",
+    thumbnail: "images/images.jpg",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,999.00 ₹2,499.00 per pair (Inclusive of all taxes)",
     price: 2499,
-    thumbnail: "../images/images (2).jpg",
+    thumbnail: "images/images (2).jpg",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ let products = [
     description:
       "MRP in Indian currency:₹1,699.00₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
-    thumbnail: "../images/images (1).jpg",
+    thumbnail: "images/images (1).jpg",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,999.00 ₹1,499.00 per pair (Inclusive of all taxes)",
     price: 1499,
-    thumbnail: "../images/download (2).jpg",
+    thumbnail: "images/download (2).jpg",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,599.00 ₹2,099.00 per pair (Inclusive of all taxes)",
     price: 2099,
-    thumbnail: "../images/download.jpg",
+    thumbnail: "images/download.jpg",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "../images/download (1).jpg",
+    thumbnail: "images/download (1).jpg",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,699.00 ₹1,299.00 per pair (Inclusive of all taxes)",
     price: 1299,
-    thumbnail: "../images/images (4).jpg",
+    thumbnail: "images/images (4).jpg",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,299.00 ₹899.00 per pair (Inclusive of all taxes)",
     price: 899,
-    thumbnail: "../images/zoom_0-1673529652.webp",
+    thumbnail: "images/zoom_0-1673529652.webp",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,299.00 ₹1,899.00 per pair (Inclusive of all taxes)",
     price: 1899,
-    thumbnail: "../images/images (3).jpg",
+    thumbnail: "images/images (3).jpg",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,699.00 ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
-    thumbnail: "../images/images (5).jpg",
+    thumbnail: "images/images (5).jpg",
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹1,999.00 per pair (Inclusive of all taxes)",
     price: 1999,
-    thumbnail: "../images/download (5).jpg",
+    thumbnail: "images/download (5).jpg",
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,699.00 ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
-    thumbnail: "../images/download (4).jpg",
+    thumbnail: "images/download (4).jpg",
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,399.00 ₹2,299.00 per pair (Inclusive of all taxes)",
     price: 2299,
-    thumbnail: "../images/download (3).jpg",
+    thumbnail: "images/download (3).jpg",
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,299.00 ₹1,899.00 per pair (Inclusive of all taxes)",
     price: 1899,
-    thumbnail: "../images/images (7).jpg",
+    thumbnail: "images/images (7).jpg",
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹1,299.00 ₹899.00 per pair (Inclusive of all taxes)",
     price: 899,
-    thumbnail: "../images/men-casual-pant.jpg",
+    thumbnail: "images/men-casual-pant.jpg",
   },
 
   {
@@ -126,7 +126,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "../images/images (8).jpg",
+    thumbnail: "images/images (8).jpg",
   },
   {
     id: 17,
@@ -134,7 +134,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹3,699.00 ₹2,999.00 per pair (Inclusive of all taxes)",
     price: 2999,
-    thumbnail: "../images/images (9).jpg",
+    thumbnail: "images/images (9).jpg",
   },
   {
     id: 18,
@@ -142,7 +142,7 @@ let products = [
     description:
       "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
-    thumbnail: "../images/images (10).jpg",
+    thumbnail: "images/images (10).jpg",
   },
 ];
 
@@ -167,31 +167,31 @@ window.addEventListener("load", () => {
   if (!localStorage.getItem("usersRef")) {
     localStorage.setItem("usersRef", JSON.stringify(users));
   }
-  if (location.pathname === "/index.html") {
+  if (location.pathname === "/online_shopping/index.html") {
     userHomePage();
   }
   if (location.pathname === "/online_shopping/admin/index.html") {
     adminHomePage();
   }
-  if (location.pathname === "/user/cart.html") {
+  if (location.pathname === "/online_shopping/user/cart.html") {
     cartPage();
   }
-  if (location.pathname === "/user/order.html") {
+  if (location.pathname === "/online_shopping/user/order.html") {
     userOrders();
   }
-  if (location.pathname === "/admin/order.html") {
+  if (location.pathname === "/online_shopping/admin/order.html") {
     adminOrders();
   }
 
   if (
-    location.pathname === "/index.html" ||
-    location.pathname === "/user/order.html" ||
-    location.pathname === "/user/cart.html"
+    location.pathname === "/online_shopping/index.html" ||
+    location.pathname === "/online_shopping/user/order.html" ||
+    location.pathname === "/online_shopping/user/cart.html"
   ) {
     cartCount();
   }
 
-  if (location.pathname === "/admin/add_product.html") {
+  if (location.pathname === "/online_shopping/admin/add_product.html") {
     let params = new URL(document.location).searchParams;
     let productId = params.get("id");
     if (productId) {
@@ -259,7 +259,7 @@ const signIn = () => {
       ) {
         location.replace("/online_shopping/admin/index.html");
       } else {
-        location.replace("/index.html");
+        location.replace("/online_shopping/index.html");
       }
     }
   } else {
@@ -270,7 +270,7 @@ const signIn = () => {
 //sign out
 const signOut = () => {
   sessionStorage.removeItem("userId");
-  location.replace("/user/signin.html");
+  location.replace("/online_shopping/user/signin.html");
 };
 
 // loading products in user home page
@@ -338,7 +338,7 @@ const deleteProduct = (id) => {
 
 // edit products in admin home page
 const editProduct = (id) => {
-  location.href = `/admin/add_product.html?id=${id}`;
+  location.href = `/online_shopping/admin/add_product.html?id=${id}`;
 };
 
 // populating products
@@ -406,7 +406,7 @@ const addProduct = () => {
     successRef.classList.add("fade", "show");
     localStorage.setItem("productsRef", JSON.stringify(products));
     setTimeout(() => {
-      location.href = "/admin/index.html";
+      location.href = "/online_shopping/admin/index.html";
     }, 1500);
   }
 };
@@ -441,7 +441,7 @@ const addToCart = (id) => {
   const product = products.find((product) => product.id === parseInt(id));
 
   if (!sessionStorage.getItem("userId")) {
-    location.href = "/user/signin.html";
+    location.href = "/online_shopping/user/signin.html";
   } else {
     let userId = parseInt(sessionStorage.getItem("userId"));
     let cart = [];
@@ -484,7 +484,7 @@ const cartCount = () => {
         cartCountRef.innerText = `Cart - ${cartCount}`;
       } else cartCountRef.innerText = `Cart`;
     }
-  } else location.href = "/user/signin.html";
+  } else location.href = "/online_shopping/user/signin.html";
 };
 
 // loading Cart Page
@@ -514,7 +514,7 @@ const cartPage = () => {
       cartBodyRef.innerHTML = body;
       totalRef.innerText = `Total - ₹ ${total}`;
     } else {
-      location.href = "/user/signin.html";
+      location.href = "/online_shopping/user/signin.html";
     }
   }
 };
@@ -542,12 +542,12 @@ const checkOut = () => {
       localStorage.setItem("cart", JSON.stringify(otherUserCart));
       localStorage.setItem("orders", JSON.stringify(orders));
       cartCount();
-      location.href = "/index.html";
+      location.href = "/online_shopping/index.html";
     } else {
-      location.href = "/index.html";
+      location.href = "/online_shopping/index.html";
     }
   } else {
-    location.href = "/user/signin.html";
+    location.href = "/online_shopping/user/signin.html";
   }
 };
 
@@ -590,10 +590,10 @@ const userOrders = () => {
       }
       tableRef.innerHTML = body;
     } else {
-      location.href = "/index.html";
+      location.href = "/online_shopping/index.html";
     }
   } else {
-    location.href = "/user/signin.html";
+    location.href = "/online_shopping/user/signin.html";
   }
 };
 
@@ -688,9 +688,9 @@ const adminOrders = () => {
         });
       }
     } else {
-      location.href = "/index.html";
+      location.href = "/online_shopping/index.html";
     }
   } else {
-    location.href = "/user/signin.html";
+    location.href = "/online_shopping/user/signin.html";
   }
 };
