@@ -3,7 +3,7 @@ let products = [
     id: 1,
     title: "White sneaker",
     description:
-      "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChlX8soMik6eDQ0QL4GjAOcJ-JTrW7jAJj2Rvq12A9rtm4nz3dguoCTMU-kTlwNevteU&usqp=CAU",
@@ -12,7 +12,7 @@ let products = [
     id: 2,
     title: "T-rock sneaker",
     description:
-      "MRP in Indian currency: ₹2,999.00 ₹2,499.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹2,499.00 per pair (Inclusive of all taxes)",
     price: 2499,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunCVM1eZUbp2YoxYK-8hRMxxRYFbcyukeSuMJs4vCyHOUuIcpiMfgx5HDCrjZj6A__hQ&usqp=CAU",
@@ -21,7 +21,7 @@ let products = [
     id: 3,
     title: "Sneaker",
     description:
-      "MRP in Indian currency:₹1,699.00₹1,399.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRONa-MOx7clS546eloytXT5ABBcrrs0LwlvzrneQQyeM6lB9VAhb8a2_mV-oyJQ4Cyteo&usqp=CAU",
@@ -30,7 +30,7 @@ let products = [
     id: 4,
     title: "Adidas",
     description:
-      "MRP in Indian currency: ₹1,999.00 ₹1,499.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹1,499.00 per pair (Inclusive of all taxes)",
     price: 1499,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_UswwnHsnghkT25IlV1KfSS_ll2HWko74Kw&usqp=CAU",
@@ -39,7 +39,7 @@ let products = [
     id: 5,
     title: "Adidas Pureboost",
     description:
-      "MRP in Indian currency: ₹2,599.00 ₹2,099.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹2,099.00 per pair (Inclusive of all taxes)",
     price: 2099,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCMN1W-RNYdVU_jB8GF79NRKaRYTloE-o8w&usqp=CAU",
@@ -48,7 +48,7 @@ let products = [
     id: 6,
     title: "Adidas Men",
     description:
-      "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
     thumbnail:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHTwsQazw2Ho8tIp3LqNeJVBCWhWv629kng&usqp=CAU",
   },
@@ -56,7 +56,7 @@ let products = [
     id: 7,
     title: "Casual Shirt",
     description:
-      "MRP in Indian currency: ₹1,699.00 ₹1,299.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹1,299.00 per pair (Inclusive of all taxes)",
     price: 1299,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrnlviQYiPqBdMJKk28d-VPmzwZ0zpfqrA4fxNq0a_PKLxXOa1eXjOTQTZJgn2S-Iq3eg&usqp=CAU",
@@ -65,7 +65,7 @@ let products = [
     id: 8,
     title: "Black Shirt",
     description:
-      "MRP in Indian currency: ₹1,299.00 ₹899.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹899.00 per pair (Inclusive of all taxes)",
     price: 899,
     thumbnail:
       "https://img0.junaroad.com/uiproducts/19126302/zoom_0-1673529652.jpg",
@@ -74,7 +74,7 @@ let products = [
     id: 9,
     title: "Casual for Men",
     description:
-      "MRP in Indian currency: ₹2,299.00 ₹1,899.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹1,899.00 per pair (Inclusive of all taxes)",
     price: 1899,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ji4pdMQgXo2oye1Fky_eXtSKBoaDe_stkJGrgB97Nx3l7gKM8O1MplIevZY5zBIkEWM&usqp=CAU",
@@ -83,7 +83,7 @@ let products = [
     id: 10,
     title: "Steezy Grey shirt",
     description:
-      "MRP in Indian currency: ₹1,699.00 ₹1,399.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsaXPt46FAu4GKQbr6Vz9QJSzwi6tuKWbM-xC2TTOmoYc57G2LPv-g4JtPSrXqmoRMo88&usqp=CAU",
@@ -92,7 +92,7 @@ let products = [
     id: 11,
     title: "Casual Checked",
     description:
-      "MRP in Indian currency: ₹2,699.00 ₹1,999.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹1,999.00 per pair (Inclusive of all taxes)",
     price: 1999,
     thumbnail:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBPIOEgWAk4QKW-MaWy60ltzUKnrNniuhTw&usqp=CAU",
    },
@@ -100,7 +100,7 @@ let products = [
     id: 12,
     title: "Plain Shirt",
     description:
-      "MRP in Indian currency: ₹1,699.00 ₹1,399.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹1,399.00 per pair (Inclusive of all taxes)",
     price: 1399,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWp3VwfVC1RnQpYTDVI4odCN_lJuzSiMN3NEr6KrC-vbrJEhiTTw0CejYZIjIAG0Loqk4&usqp=CAU",
@@ -109,7 +109,7 @@ let products = [
     id: 13,
     title: "Casual Pant",
     description:
-      "MRP in Indian currency: ₹1,399.00 ₹2,299.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹2,299.00 per pair (Inclusive of all taxes)",
     price: 2299,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPZNoag7We_uNa8jrSJaIxkOtzLEsC_-rrA&usqp=CAU",
@@ -118,7 +118,7 @@ let products = [
     id: 14,
     title: "Grey formal Pant",
     description:
-      "MRP in Indian currency: ₹2,299.00 ₹1,899.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹1,899.00 per pair (Inclusive of all taxes)",
     price: 1899,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwRtSBemEwT-hA6bZasCuZic47XEld7Ed9kdomFjeWZWsc0qLWvIM7DFboZqL-fApIRA&usqp=CAU",
@@ -127,7 +127,7 @@ let products = [
     id: 15,
     title: "Casual Pant",
     description:
-      "MRP in Indian currency: ₹1,299.00 ₹899.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹899.00 per pair (Inclusive of all taxes)",
     price: 899,
     thumbnail:
       "https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant.jpg",
@@ -137,7 +137,7 @@ let products = [
     id: 16,
     title: "Grey jean",
     description:
-      "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSygPM1nTNFQVcJSTz7Y_L-cv3vleeb9rnqSQ&usqp=CAU",
@@ -146,7 +146,7 @@ let products = [
     id: 17,
     title: "Blue jean",
     description:
-      "MRP in Indian currency: ₹3,699.00 ₹2,999.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹2,999.00 per pair (Inclusive of all taxes)",
     price: 2999,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdpyBO8kwkBlpHLjTcpX2FNzXSmDBvp_7ocQ&usqp=CAU",
@@ -155,7 +155,7 @@ let products = [
     id: 18,
     title: "Jogger",
     description:
-      "MRP in Indian currency: ₹2,699.00 ₹2,399.00 per pair (Inclusive of all taxes)",
+      "MRP in Indian currency: ₹2,399.00 per pair (Inclusive of all taxes)",
     price: 2399,
     thumbnail:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDtEk1AWnUl5luFwtB2MnERuyt--ipwnoDXg&usqp=CAU",
