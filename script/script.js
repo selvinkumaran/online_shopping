@@ -439,7 +439,6 @@ const cart = () => {
   for (let product of cartItem) {
     total = total + parseInt(product.count) * parseInt(product.price);
     const count = product.count * product.price;
-    console.log(count.value);
     body += `<tr>
                   <td>${product.title}</td>
                   <td>${product.Quantity}</td>
@@ -580,9 +579,9 @@ const userOrders = () => {
       for (let order of userOrder) {
         let product = "";
         let total = 0;
-        for (let prod of order.products) {
-          product += `<p>${prod.count} * ${prod.title}</p>`;
-          total += prod.count * prod.price;
+        for (let product of order.products) {
+          product += `<p>${product.count} * ${product.title}</p>`;
+          total += product.count * product.price;
         }
 
         const date = new Date(order.timestamp);
