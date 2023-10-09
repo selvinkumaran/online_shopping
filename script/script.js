@@ -163,7 +163,7 @@ let products = [
 ];
 
 let users = [
-  { id: 1, email: "selvin@gmail.com", password: "1234" },
+  { id: 1, email: "selvin@gmail.com", password: "admin" },
   { id: 2, email: "user@gmail.com", password: "user" },
   { id: 3, email: "gnanesh@gmail.com", password: "gnanesh" },
 ];
@@ -271,7 +271,7 @@ const signIn = () => {
       sessionStorage.setItem("userId", loggedUser.id);
       if (
         emailRef.value === "selvin@gmail.com" &&
-        passwordRef.value === "1234"
+        passwordRef.value === "admin"
       ) {
         location.replace("/online_shopping/admin/index.html");
       } else {
