@@ -163,9 +163,7 @@ let products = [
 ];
 
 let users = [
-  { id: 1, email: "selvin@gmail.com", password: "admin" },
-  { id: 2, email: "user@gmail.com", password: "user" },
-  { id: 3, email: "gnanesh@gmail.com", password: "gnanesh" },
+  { id: 1, email: "user@gmail.com", password: "user" },
 ];
 
 let carts = [
