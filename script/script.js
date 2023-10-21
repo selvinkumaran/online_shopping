@@ -295,7 +295,7 @@ const userHomePage = () => {
   for (let product of productSet) {
     body += `<div class="col-lg-4">      
     <img
-      class="card-img-top height1"
+      class="card-img-top fixed-height-205"
       src="${product.thumbnail}"
       alt="Card image cap"
     />

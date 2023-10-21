@@ -1,20 +1,12 @@
-.col1 {
+.bg-black {
   background-color: black;
   color: white;
 }
-.out {
-  display: flex;
-  margin: 30px;
-}
-.in {
-  display: inline-block;
-}
-.height {
-  height: 274px;
-}
-.height1 {
+
+.fixed-height-205 {
   height: 205px;
 }
+
 .strike {
   text-decoration: line-through;
 }
@@ -36,3 +28,4 @@
   border: none;
   border-radius: 25px;
 }
+
